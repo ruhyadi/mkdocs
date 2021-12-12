@@ -1,6 +1,4 @@
-# Welcome to MkDocs
-
-Tambahan
+# Copy Index
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
